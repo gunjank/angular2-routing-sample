@@ -1,7 +1,7 @@
 # angular2-routing-sample
 Angular v2 project with working routing example. 
 
-##Prerequisites
+## Prerequisites
 `Install node and angular-cli`
 
 ### How to use
